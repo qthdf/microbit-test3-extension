@@ -12,6 +12,10 @@
         "main.blocks",
         "main.ts",
         "README.md"
+        "gatorparticle.cpp"
+        "MAX30105.cpp"
+        "MAX30105.h"
+        
     ],
     "testFiles": [
         "test.ts"
