@@ -1,5 +1,5 @@
 
-> Open this page at [https://chenq86.github.io/test2-extension/](https://chenq86.github.io/test2-extension/)
+> Open this page at [https://github.com/qthdf/microbit-test3-extension/](https://chenq86.github.io/test2-extension/)
 
 ## Use as Extension
 
@@ -10,7 +10,7 @@ This repository can be added as an **extension** in MakeCode.
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/qthdf/microbit-test3-extension** and import
 
-## Edit this project ![Build status badge](https://github.com/chenq86/test2-extension/workflows/MakeCode/badge.svg)
+## Edit this project ![Build status badge](https://github.com/qthdf/microbit-test3-extension/workflows/MakeCode/badge.svg)
 
 To edit this repository in MakeCode.
 
@@ -23,7 +23,7 @@ To edit this repository in MakeCode.
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
 
-![A rendered view of the blocks](https://github.com/chenq86/test2-extension/raw/master/.github/makecode/blocks.png)
+![A rendered view of the blocks](https://github.com/qthdf/microbit-test3-extension/raw/master/.github/makecode/blocks.png)
 
 #### Metadata (used for search, rendering)
 
@@ -32,7 +32,7 @@ This image may take a few minutes to refresh.
 
 
 
-> Open this page at [https://chenq86.github.io/test2-extension/](https://chenq86.github.io/test2-extension/)
+> Open this page at [https://github.com/qthdf/microbit-test3-extension/](https://chenq86.github.io/test2-extension/)
 
 ## Use as Extension
 
@@ -43,7 +43,7 @@ This repository can be added as an **extension** in MakeCode.
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/qthdf/microbit-test3-extension** and import
 
-## Edit this project ![Build status badge](https://github.com/chenq86/test2-extension/workflows/MakeCode/badge.svg)
+## Edit this project ![Build status badge](https://github.com/qthdf/microbit-test3-extension/workflows/MakeCode/badge.svg)
 
 To edit this repository in MakeCode.
 
@@ -56,7 +56,7 @@ To edit this repository in MakeCode.
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
 
-![A rendered view of the blocks](https://github.com/chenq86/test2-extension/raw/master/.github/makecode/blocks.png)
+![A rendered view of the blocks](https://github.com/qthdf/microbit-test3-extension/raw/master/.github/makecode/blocks.png)
 
 #### Metadata (used for search, rendering)
 
@@ -65,7 +65,7 @@ This image may take a few minutes to refresh.
 
 
 
-> Open this page at [https://chenq86.github.io/test2-extension/](https://chenq86.github.io/test2-extension/)
+> Open this page at [https://github.com/qthdf/microbit-test3-extension/](https://github.com/qthdf/microbit-test3-extension)
 
 ## Use as Extension
 
@@ -76,7 +76,7 @@ This repository can be added as an **extension** in MakeCode.
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/qthdf/microbit-test3-extension**and import
 
-## Edit this project ![Build status badge](https://github.com/chenq86/test2-extension/workflows/MakeCode/badge.svg)
+## Edit this project ![Build status badge](https://github.com/qthdf/microbit-test3-extension/workflows/MakeCode/badge.svg)
 
 To edit this repository in MakeCode.
 
@@ -89,7 +89,7 @@ To edit this repository in MakeCode.
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
 
-![A rendered view of the blocks](https://github.com/chenq86/test2-extension/raw/master/.github/makecode/blocks.png)
+![A rendered view of the blocks](https://github.com/qthdf/microbit-test3-extension/raw/master/.github/makecode/blocks.png)
 
 #### Metadata (used for search, rendering)
 
@@ -98,7 +98,7 @@ This image may take a few minutes to refresh.
 
 
 
-> Open this page at [https://chenq86.github.io/test3-extension/](https://chenq86.github.io/test3-extension/)
+> Open this page at [https://github.com/qthdf/microbit-test3-extension/](https://github.com/qthdf/microbit-test3-extension/)
 
 ## Use as Extension
 
@@ -109,7 +109,7 @@ This repository can be added as an **extension** in MakeCode.
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/qthdf/microbit-test3-extension** and import
 
-## Edit this project ![Build status badge](https://github.com/chenq86/test3-extension/workflows/MakeCode/badge.svg)
+## Edit this project ![Build status badge](https://github.com/qthdf/microbit-test3-extension/workflows/MakeCode/badge.svg)
 
 To edit this repository in MakeCode.
 
@@ -122,7 +122,7 @@ To edit this repository in MakeCode.
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
 
-![A rendered view of the blocks](https://github.com/chenq86/test3-extension/raw/master/.github/makecode/blocks.png)
+![A rendered view of the blocks](https://github.com/qthdf/microbit-test3-extension/raw/master/.github/makecode/blocks.png)
 
 #### Metadata (used for search, rendering)
 
@@ -131,7 +131,7 @@ This image may take a few minutes to refresh.
 
 
 
-> 在 [https://qthdf.github.io/microbit-test3-extension/](https://qthdf.github.io/microbit-test3-extension/) 打开此页面
+> 在 [https://github.com/qthdf/microbit-test3-extension/](https://github.com/qthdf/microbit-test3-extension/) 打开此页面
 
 ## 用作扩展
 
