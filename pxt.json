@@ -16,7 +16,8 @@
         "MAX30105.cpp",
         "MAX30105.h",
         "enums.d.ts",
-        "shims.d.ts"
+        "shims.d.ts",
+        "gatorparticle.ts"
     ],
     "testFiles": [
         "test.ts"
