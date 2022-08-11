@@ -1,4 +1,6 @@
 
+
+
 enum PingUnit {
     //% block="微秒"
     MicroSeconds,
@@ -156,7 +158,6 @@ namespace Microbit {
     export function heartbeat(type: HeartbeatType): number {
         return 0
     }
-    
 
 
 
