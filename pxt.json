@@ -14,7 +14,8 @@
         "README.md",
         "gatorparticle.cpp",
         "MAX30105.cpp",
-        "MAX30105.h"
+        "MAX30105.h",
+        "enums.d.ts"
     ],
     "testFiles": [
         "test.ts"

@@ -1,21 +1,4 @@
-declare const enum LEDToRead {
-    //% block="Red" enumval=1
-    Red = 1,
-    //% block="Infrared" enumval=2
-    Infrared = 2,
-}
-declare const enum HeartbeatType {
-    //% block="BPM" enumval=0
-    BPM = 0,
-    //% block="AVG" enumval=1
-    AVG = 1,
-}
-declare const enum LEDMode {
-    //% block="Red" enumval=2
-    RedLED = 2,
-    //% block="Red & Infrared" enumval=3
-    RedAndIR = 3,
-}
+
 enum PingUnit {
     //% block="微秒"
     MicroSeconds,

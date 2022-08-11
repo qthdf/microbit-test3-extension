@@ -42,7 +42,7 @@ enum LEDMode{
 
 using namespace pxt;
 
-namespace gatorParticle {
+namespace Microbit {
 	MAX30105 *particleSensor;
 	const uint8_t RATE_SIZE = 4; //Increase this for more averaging. 4 is good.
 	uint8_t rates[RATE_SIZE]; //Array of heart rates
