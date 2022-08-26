@@ -116,7 +116,7 @@ namespace Microbit {
     //% shim=gatorParticle::color
     //% subcategory=传感器
     export function color(type: LEDToRead): number {
-        return 0
+        return 0;
     }
 
     /**
@@ -129,7 +129,7 @@ namespace Microbit {
     //% advanced=true
     //% subcategory=传感器
     export function setReadMode(mode: LEDMode) {
-        return
+        return;
     }
 
     /**
@@ -142,7 +142,7 @@ namespace Microbit {
     //% advanced=true
     //% subcategory=传感器
     export function setAmplitude(led: LEDToRead, myBrightness: number) {
-        return
+        return;
     }
 
     /**
@@ -154,7 +154,7 @@ namespace Microbit {
     //% shim=gatorParticle::heartbeat
     //% subcategory=传感器
     export function heartbeat(type: HeartbeatType): number {
-        return 0
+        return 0;
     }
 
 
