@@ -107,6 +107,7 @@ namespace Microbit {
 	//% blockId="gatorParticle_begin" 
 	//% block="initialize gator:Particle sensor"
 	//% shim=gatorParticle::begin
+	//% subcategory=传感器
 	export function begin(){
 		return
 	}
@@ -118,6 +119,7 @@ namespace Microbit {
 	//% blockId="gatorParticle_color" 
 	//% block="get %LEDToRead value"
 	//% shim=gatorParticle::color
+	//% subcategory=传感器
 	export function color(type: LEDToRead): number{
 		return 0
 	}
@@ -130,6 +132,7 @@ namespace Microbit {
 	//% block="set LED mode to read %LEDMode"
 	//% shim=gatorParticle::setReadMode
 	//% advanced=true
+	//% subcategory=传感器
 	export function setReadMode(mode: LEDMode)
 	{
 		return
@@ -143,6 +146,7 @@ namespace Microbit {
 	//% block="change strength of %LEDToRead | to %myBrightness"
 	//% shim=gatorParticle::setAmplitude
 	//% advanced=true
+	//% subcategory=传感器
 	export function setAmplitude(led: LEDToRead, myBrightness: number)
 	{
 		return
@@ -155,6 +159,7 @@ namespace Microbit {
 	//% blockId="gatorParticle_heartbeat"
 	//% block="detect heartbeat in %HeartbeatType"
 	//% shim=gatorParticle::heartbeat
+	//% subcategory=传感器
 	export function heartbeat(type: HeartbeatType): number
 	{
 		return 0
